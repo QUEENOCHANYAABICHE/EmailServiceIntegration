@@ -12,7 +12,7 @@ ACTIVE_PROFILE: dev
 #Email Config
 EMAIL_HOST: smtp.gmail.com
 EMAIL_PORT: 587
-EMAIL_ID: easylend419@gmail.com
-EMAIL_PASSWORD: aslaackgnvavfbzq
-VERIFY_EMAIL_HOST: http://localhost:5432
+EMAIL_ID:
+EMAIL_PASSWORD:
+VERIFY_EMAIL_HOST: smtp.gmail.com
 

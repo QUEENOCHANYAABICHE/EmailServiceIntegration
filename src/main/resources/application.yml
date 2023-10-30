@@ -30,7 +30,7 @@ spring:
         mime:
           charset: UTF
         smtp:
-          write timeout: 10000
+          write-timeout: 10000
           connection-timeout: 10000
           timeout: 10000
           auth: true
@@ -39,7 +39,6 @@ spring:
             required: true
     verify:
       host: ${VERIFY_EMAIL_HOST}
-
 
 server:
   port: ${SERVER_PORT:8096}
