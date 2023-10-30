@@ -1,0 +1,18 @@
+#Database
+POSTGRES_SQL_USERNAME: postgres
+POSTGRES_SQL_PASSWORD: 08135086800
+POSTGRES_SQL_HOST: localhost
+POSTGRES_SQL_PORT: 5432
+POSTGRES_SQL_DB: EmailDB
+
+#server
+SERVER_PORT: 8096
+ACTIVE_PROFILE: dev
+
+#Email Config
+EMAIL_HOST: smtp.gmail.com
+EMAIL_PORT: 587
+EMAIL_ID: easylend419@gmail.com
+EMAIL_PASSWORD: aslaackgnvavfbzq
+VERIFY_EMAIL_HOST: http://localhost:5432
+
