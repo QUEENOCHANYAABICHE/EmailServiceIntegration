@@ -7,7 +7,7 @@ POSTGRES_SQL_DB: EmailDB
 
 #server
 SERVER_PORT: 8096
-ACTIVE_PROFILE: dev
+ACTIVE_PROFILE:
 
 #Email Config
 EMAIL_HOST: smtp.gmail.com
