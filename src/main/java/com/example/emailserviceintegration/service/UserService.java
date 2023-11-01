@@ -7,6 +7,6 @@ import org.springframework.stereotype.Service;
 
 @Service
 public interface UserService {
-    User saveUser(UserDTO userDTO);
+    //User saveUser(UserDTO userDTO);
     Boolean verifyToken(String token);
 }
